@@ -273,6 +273,6 @@ def factorial_math(n: int):
 
 if __name__ == "__main__":
     # mcp.run(transport='streamable-http', host="192.168.146.128", port=8001)
-    mcp.settings.host = "0.0.0.0"
-    mcp.settings.port = 29936
-    mcp.run(transport='streamable-http')
+    # mcp.settings.host = "0.0.0.0"
+    # mcp.settings.port = 29936
+    mcp.run(transport='stdio')
