@@ -1,6 +1,6 @@
 [project]
 name = "math_genie_calc"
-version = "0.1.6"
+version = "0.1.7"
 description = "math genie calculator"
 readme = "README.md"
 requires-python = ">=3.10"
