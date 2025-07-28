@@ -54,10 +54,10 @@ npx @modelcontextprotocol/inspector uvx math_genie_calc
 ```
 {
   "mcpServers": {
-    "math_genie_calc": {
+    "math_genie_calc_mcp_server": {
       "command": "uvx",
       "args": [
-        "math_genie_calc@latest"
+        "math_genie_calc_mcp_server@latest"
       ]
     }
   }
